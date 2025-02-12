@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **React.js Projects**
-- 🌱 I’m currently learning **Next.js & TypeScript**
+- 🌱 I’m currently learning **Advanced React.js & TypeScript**
 - 💬 Ask me about **Tailwind CSS, Node.js, Express.js, C++, JavaScript**
 - 📫 Reach me at **durgesh120103@gmail.com**
 - ⚡ Fun fact: **I love problem-solving and competitive programming!**
@@ -40,9 +40,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
@@ -55,6 +52,21 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -64,8 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=durgeshpratapsingh123&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshpratapsingh123&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgeshpratapsingh123&bg_color=0e0e0e&color=1ce783&line=1ce783&point=1ce783&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -73,13 +83,6 @@
 ### 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=durgeshpratapsingh123&theme=darkhub" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🐍 GitHub Snake Game:
-<p align="center">
-  <img src="https://github.com/durgeshpratapsingh123/durgeshpratapsingh123/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -94,6 +97,9 @@
   </a>
   <a href="https://www.leetcode.com/durgesh120103" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/durgesh120103" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40"/>
   </a>
 </p>
 
