@@ -44,8 +44,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=durgeshpratapsingh123&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshpratapsingh123&theme=radical" alt="GitHub Streak" />
-
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshpratapsingh123&theme=radical" alt="GitHub Streak" />
+ -->
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgeshpratapsingh123&bg_color=0e0e0e&color=1ce783&line=1ce783&point=1ce783&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
@@ -59,10 +59,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake Game:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/durgeshpratapsingh123/durgeshpratapsingh123/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 ---
 
 ## 🎯 Competitive Programming Profiles:
